@@ -1,5 +1,5 @@
 # bettermotherfuckingwebsite <br>
-Ce sont deux fichiers complémentaires, un html et l'autre css qui forment le code réprésentant la reproduction du site http://http://bettermotherfuckingwebsite.com
+Ce sont deux fichiers complémentaires, un html et l'autre css qui forment le code réprésentant la reproduction du site http://bettermotherfuckingwebsite.com
 
 
 Link to my website : https://anis4300.github.io/bettermotherfuckingwebsite/bmw.html
